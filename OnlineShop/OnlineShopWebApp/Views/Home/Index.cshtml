@@ -1,0 +1,93 @@
+﻿@model List<ProductViewModel>
+
+@{
+    ViewData["Title"] = "Главная";
+}
+
+@if (Model != null)
+{
+    <section class="featured-products px-lg-3">
+        <div class="container">
+            <div class="row mb-2">
+                <div class="col-12">
+                    <h2 class="section-title">
+                        <span>Рекомендуемые товары</span>
+                    </h2>
+                </div>
+            </div>
+            <div class="row">
+                @foreach (var product in Model)
+                {
+                    <div class="col-lg-3 col-md-4 col-sm-6 mb-3">
+                    <div class="product-card">
+                        <div class="product-card-offer">
+                            <div class="offer-hit">Hit</div>
+                            <div class="offer-new">New</div>
+                        </div>
+                        <div class="product-thumb">
+                            <a asp-controller="Product" asp-action="Index" asp-route-productid="@product.Id"><img src="@product.ImagesPath[0].URL" alt="@product.Name"></a>
+                        </div>
+                        <div class="product-details">
+                            <h4>
+                                <a asp-controller="Product" asp-action="Index" asp-route-productid="@product.Id">@product.Name</a>
+                            </h4>
+                            <p class="product-excerpt">@product.Description</p>
+                            <div class="product-bottom-details d-flex justify-content-between">
+                                <div class="product-price">@product.Cost</div>
+                                <div class="product-links">
+                                    <a asp-controller="Cart" asp-action="Add" asp-route-productid="@product.Id" class="btn btn-outline-secondary add-to-cart">
+                                        <i class="fa-solid fa-cart-shopping"></i></a>
+                                </div>
+                                <div class="product-links">
+                                    <a asp-controller="Compare" asp-action="Add" asp-route-productid="@product.Id" class="btn btn-outline-secondary add-to-cart">
+                                        <i class="fa-solid fa-code-compare"></i>
+                                    </a>
+                                </div>
+                                <div class="product-links">
+                                    <a asp-controller="Favourite" asp-action="Add" asp-route-productid="@product.Id" class="btn btn-outline-secondary add-to-cart">
+                                        <i class="fa-solid fa-star"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                }
+            </div>
+        </div>
+    </section>
+
+    <section class="about-us">
+        <div class="container">
+            <div class="row mb-2">
+                <div class="col-12">
+                    <h2 class="section-title">
+                        <span>О нас</span>
+                    </h2>
+                </div>
+            </div>
+
+            <div class="row text">
+                <div class="col-12">
+                    <p>
+                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis nam nesciunt doloribus
+                        quam repellat perferendis exercitationem tempore nihil, voluptatum commodi aperiam
+                        accusamus tenetur consectetur in similique eum, optio ratione beatae?
+                    </p>
+                    <p>
+                        Nisi ad quod rem voluptate praesentium ab fugiat omnis eum tenetur. Tempore earum soluta
+                        laudantium magni esse rerum neque fugiat sed sint odit vero, distinctio eos voluptatem
+                        sit, asperiores sequi?
+                    </p>
+                    <p>
+                        Rerum et, quae iusto, voluptate molestiae amet dignissimos magnam officiis laboriosam
+                        eius corrupti veniam distinctio illum? Ipsa ea dignissimos at pariatur rem natus, vero
+                        laudantium alias ducimus unde atque voluptatem.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+}

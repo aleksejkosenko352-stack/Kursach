@@ -1,0 +1,132 @@
+﻿@model ProductViewModel
+
+@{
+    ViewData["Title"] = "Редактирование продукта";
+    int i = 0;
+}
+
+<div class="container py-4">
+    <div class="row">
+        <div class="col-lg-3 mb-3">
+            @await Html.PartialAsync("AdminMenu")
+        </div>
+
+        <div class="col-lg-9">
+            <div class="card shadow-sm">
+                <div class="card-body">
+
+                    <h4 class="mb-4">Редактирование продукта</h4>
+
+                    <form method="post"
+                          asp-controller="Product"
+                          asp-action="Save"
+                          asp-route-productId="@Model.Id"
+                          enctype="multipart/form-data">
+
+                        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                        <div class="mb-3">
+                            <label asp-for="Name" class="form-label">Название</label>
+                            <input asp-for="Name" class="form-control" placeholder="Наименование продукта" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Cost" class="form-label">Цена</label>
+                            <div class="input-group">
+                                <input asp-for="Cost" class="form-control" placeholder="Стоимость продукта" />
+                                <span class="input-group-text">₴</span>
+                            </div>
+                            <span asp-validation-for="Cost" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Description" class="form-label">Описание</label>
+                            <textarea asp-for="Description"
+                                      class="form-control"
+                                      rows="4"
+                                      placeholder="Описание продукта"></textarea>
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-4">
+                            <label class="form-label">Ранее загруженные изображения</label>
+
+                            <div class="row">
+                                <div class="col-md-6 col-lg-5">
+                                    <div id="carouselExample"
+                                         class="carousel slide border rounded p-2 bg-light">
+
+                                        <div class="carousel-inner">
+
+                                            @{
+                                                var index = 0;
+                                            }
+
+                                            @foreach (var image in Model.ImagesPath)
+                                            {
+                                                <input type="hidden"
+                                                       name="ImagesPath"
+                                                       value="@image.URL" />
+
+                                                <div class="carousel-item @(index == 0 ? "active" : "")">
+                                                    <img src="@image.URL"
+                                                         class="d-block w-100 rounded"
+                                                         alt="@Model.Name">
+                                                </div>
+
+                                                index++;
+                                            }
+
+                                        </div>
+
+                                        <button class="carousel-control-prev"
+                                                type="button"
+                                                data-bs-target="#carouselExample"
+                                                data-bs-slide="prev">
+                                            <span class="carousel-control-prev-icon"></span>
+                                        </button>
+
+                                        <button class="carousel-control-next"
+                                                type="button"
+                                                data-bs-target="#carouselExample"
+                                                data-bs-slide="next">
+                                            <span class="carousel-control-next-icon"></span>
+                                        </button>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mb-4">
+                            <label asp-for="UploadedFiles" class="form-label">
+                                Заменить изображения
+                            </label>
+                            <input asp-for="UploadedFiles"
+                                   type="file"
+                                   class="form-control"
+                                   multiple />
+                            <span asp-validation-for="UploadedFiles" class="text-danger"></span>
+                        </div>
+
+                        <div class="d-flex gap-2">
+                            <button type="submit" class="btn btn-success px-4">
+                                Сохранить
+                            </button>
+
+                            <a class="btn btn-outline-secondary"
+                               asp-area="Administrator"
+                               asp-controller="Product"
+                               asp-action="Index">
+                                Отмена
+                            </a>
+                        </div>
+
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
