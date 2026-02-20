@@ -43,8 +43,6 @@ docker-compose.yml
 version: '3.4'
 services:
   onlineshopwebapp:
-    container_name: online_shop_app_mvc
-    image: zoronbet/onlineshopwebapp
     ports:
         - 80:80
         - 443:443
