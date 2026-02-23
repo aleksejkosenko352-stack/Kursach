@@ -10,6 +10,7 @@ using OnlineShopWebApp.Providers;
 using System;
 using System.Linq;
 using System.Threading.Tasks;
+using Stripe;
 
 namespace OnlineShopWebApp.Controllers
 {
@@ -30,7 +31,32 @@ namespace OnlineShopWebApp.Controllers
             _userManager = userManager;
             _mapper = mapper;
         }
+        [HttpPost]
+        public async Task<IActionResult> CreatePaymentIntent()
+        {
+            var userId = User.Identity.IsAuthenticated
+                ? Guid.Parse((await _userManager.GetUserAsync(User)).Id)
+                : _userViewModel.Id;
 
+            var cart = await _cartStorage.TryGetByIdAsync(userId);
+
+            var amount = cart.Items.Sum(x => x.Product.Cost * x.Quantity) * 100;
+
+            var options = new PaymentIntentCreateOptions
+            {
+                Amount = (long)amount,
+                Currency = "uah",
+                AutomaticPaymentMethods = new PaymentIntentAutomaticPaymentMethodsOptions
+                {
+                    Enabled = true
+                }
+            };
+
+            var service = new PaymentIntentService();
+            var intent = service.Create(options);
+
+            return Json(new { clientSecret = intent.ClientSecret });
+        }
         public async Task<IActionResult> Index()
 		{
 			var orders = await _orderStorage.GetAllAsync();

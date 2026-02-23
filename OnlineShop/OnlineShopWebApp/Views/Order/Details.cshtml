@@ -1,4 +1,6 @@
-﻿@model OrderDetailsViewModel
+﻿@using Microsoft.Extensions.Configuration
+@inject IConfiguration Configuration
+@model OrderDetailsViewModel
 
 @{
     ViewData["Title"] = "Детали заказа";
@@ -64,6 +66,8 @@
                 <div class="cart-summary p-3 sidebar h-100">
                     @await Component.InvokeAsync("CartInfoFull")
                     <div class="d-grid mt-3">
+                        <div id="payment-element"></div>
+                        <div id="payment-error" class="text-danger mt-2"></div>
                         <button type="submit" class="btn btn-primary">
                             Оформить заказ
                         </button>
@@ -73,3 +77,47 @@
         </div>
     </form>
 </div>
+
+<script src="https://js.stripe.com/v3/"></script>
+
+<input type="hidden" name="paymentIntentId" id="paymentIntentId" />
+
+<script>
+    const stripe = Stripe("@Configuration["Stripe:PublishableKey"]");
+    let elements;
+
+    // создаём PaymentIntent
+    fetch("/Order/CreatePaymentIntent", { method: "POST" })
+      .then(r => r.json())
+      .then(data => {
+          const clientSecret = data.clientSecret;
+
+          elements = stripe.elements({ clientSecret });
+          const paymentElement = elements.create("payment");
+          paymentElement.mount("#payment-element");
+      });
+
+    // перехватываем submit
+    document.querySelector("form")
+    .addEventListener("submit", async function(e) {
+        e.preventDefault();
+
+        const result = await stripe.confirmPayment({
+            elements,
+            redirect: "if_required"
+        });
+
+        if (result.error) {
+            document.getElementById("payment-error").innerText =
+                result.error.message;
+            return;
+        }
+
+        // сохраняем PaymentIntentId
+        document.getElementById("paymentIntentId").value =
+            result.paymentIntent.id;
+
+        // отправляем форму
+        e.target.submit();
+    });
+</script>

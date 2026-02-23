@@ -6,6 +6,7 @@ using OnlineShop.DB;
 using OnlineShop.DB.Models;
 using Serilog;
 using System.Threading.Tasks;
+using Stripe;
 
 namespace OnlineShopWebApp
 {

@@ -1,257 +1,309 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\",
+  "WorkspaceRootPath": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\models\\paytypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\paytypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\models\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\controllers\\comparecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\controllers\\comparecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\models\\favouriteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\favouriteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\models\\imageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\imageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\models\\itemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\itemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\models\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\account\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\account\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\account\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\account\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\account\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\shared\\components\\cart\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\shared\\components\\cart\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\shared\\components\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\shared\\components\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\authorization\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\authorization\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\authorization\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\authorization\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\areas\\administrator\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\areas\\administrator\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\product\\addreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\product\\addreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\areas\\administrator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\areas\\administrator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\favourite\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\favourite\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\areas\\administrator\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\areas\\administrator\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\areas\\administrator\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\areas\\administrator\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\areas\\administrator\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\areas\\administrator\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshop.db\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|solutionrelative:onlineshop.db\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\shared\\usermenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\shared\\usermenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\compare\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\compare\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\areas\\administrator\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\areas\\administrator\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\product\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\product\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\views\\product\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\product\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\product\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\areas\\administrator\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\areas\\administrator\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\models\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\models\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\models\\compareviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\compareviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\models\\deliverytypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\product\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\product\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\product\\addreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\product\\addreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\models\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\models\\deliverytypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\deliverytypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshopwebapp\\models\\orderstatusviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\models\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\models\\itemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\itemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\shared\\components\\cartinfoshort\\cartinfoshort.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\shared\\components\\cartinfoshort\\cartinfoshort.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\areas\\administrator\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\areas\\administrator\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\order\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\order\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\account\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\account\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\models\\paytypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\paytypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\favourite\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\favourite\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\shared\\components\\cartinfofull\\cartinfofull.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\shared\\components\\cartinfofull\\cartinfofull.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D59580-3BC0-4FD2-9E03-8F01DE897DF5}|WebAPI\\WebAPI.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\webapi\\models\\reviewdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D59580-3BC0-4FD2-9E03-8F01DE897DF5}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\reviewdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\models\\favouriteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\favouriteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\models\\imageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\imageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\shared\\components\\cartinfofull\\cartinfofullviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\shared\\components\\cartinfofull\\cartinfofullviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\shared\\components\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\shared\\components\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D59580-3BC0-4FD2-9E03-8F01DE897DF5}|WebAPI\\WebAPI.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\webapi\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D59580-3BC0-4FD2-9E03-8F01DE897DF5}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\areas\\administrator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\areas\\administrator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\controllers\\comparecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\controllers\\comparecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\shared\\components\\cart\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\shared\\components\\cart\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\authorization\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\authorization\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\authorization\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\authorization\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\areas\\administrator\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\areas\\administrator\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\areas\\administrator\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\areas\\administrator\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\areas\\administrator\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\areas\\administrator\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\areas\\administrator\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\areas\\administrator\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshop.db\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|solutionrelative:onlineshop.db\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\shared\\usermenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\shared\\usermenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\views\\compare\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\views\\compare\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\areas\\administrator\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\areas\\administrator\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\areas\\administrator\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\areas\\administrator\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\models\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\models\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\models\\compareviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\compareviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshopwebapp\\models\\orderstatusviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81C08BB4-A93E-4F36-893F-2998ED2F8C31}|OnlineShopWebApp\\OnlineShopWebApp.csproj|solutionrelative:onlineshopwebapp\\models\\orderstatusviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshop.db\\storages\\productdbstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshop.db\\storages\\productdbstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|solutionrelative:onlineshop.db\\storages\\productdbstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshop.db\\storages\\orderdbstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshop.db\\storages\\orderdbstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|solutionrelative:onlineshop.db\\storages\\orderdbstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshop.db\\storages\\favouritedbstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshop.db\\storages\\favouritedbstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|solutionrelative:onlineshop.db\\storages\\favouritedbstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshop.db\\storages\\comparedbstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshop.db\\storages\\comparedbstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|solutionrelative:onlineshop.db\\storages\\comparedbstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshop.db\\storages\\cartdbstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshop.db\\storages\\cartdbstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|solutionrelative:onlineshop.db\\storages\\cartdbstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshop.db\\models\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshop.db\\models\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|solutionrelative:onlineshop.db\\models\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshop.db\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshop.db\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|solutionrelative:onlineshop.db\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshop.db\\interfaces\\iproductstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshop.db\\interfaces\\iproductstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|solutionrelative:onlineshop.db\\interfaces\\iproductstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshop.db\\interfaces\\iorderstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshop.db\\interfaces\\iorderstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|solutionrelative:onlineshop.db\\interfaces\\iorderstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshop.db\\interfaces\\ifavouritestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshop.db\\interfaces\\ifavouritestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|solutionrelative:onlineshop.db\\interfaces\\ifavouritestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshop.db\\interfaces\\icomparestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshop.db\\interfaces\\icomparestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|solutionrelative:onlineshop.db\\interfaces\\icomparestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\onlineshopwebapp-main\\onlineshop\\onlineshop.db\\interfaces\\icartstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|c:\\users\\nyu\\desktop\\kursach\\onlineshop\\onlineshop.db\\interfaces\\icartstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32998FE1-5BC2-428A-8074-11863671831B}|OnlineShop.DB\\OnlineShop.DB.csproj|solutionrelative:onlineshop.db\\interfaces\\icartstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -262,41 +314,275 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProfileViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\ProfileViewModel.cs",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\ProfileViewModel.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\ProfileViewModel.cs",
-              "RelativeToolTip": "OnlineShopWebApp\\Models\\ProfileViewModel.cs",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-19T01:52:24.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-19T01:52:43.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Program.cs",
+              "RelativeToolTip": "OnlineShopWebApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:05:26.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Startup.cs",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Startup.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Startup.cs",
+              "RelativeToolTip": "OnlineShopWebApp\\Startup.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T20:56:06.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\appsettings.json",
+              "RelativeToolTip": "OnlineShopWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-23T21:27:11.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Account\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Account\\OrderDetails.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Account\\OrderDetails.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Account\\OrderDetails.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-19T01:51:41.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OnlineShopWebApp\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T01:52:59.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Account\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Account\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Account\\Edit.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Account\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T20:31:03.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T20:30:59.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:22:03.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T20:01:17.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Product\\Search.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Product\\Search.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Product\\Search.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Product\\Search.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:13:59.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:33:12.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:07:40.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:07:41.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:25:49.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Product\\View.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Product\\View.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Product\\View.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Product\\View.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:08:11.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddReview.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Product\\AddReview.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Product\\AddReview.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Product\\AddReview.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Product\\AddReview.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:18:03.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:10:36.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\ProfileViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\ProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\ProfileViewModel.cs",
+              "RelativeToolTip": "OnlineShopWebApp\\Models\\ProfileViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T01:51:57.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "OnlineShopWebApp\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T01:53:34.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "OnlineShopWebApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "OnlineShopWebApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -305,24 +591,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\ProductViewModel.cs",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\ProductViewModel.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\ProductViewModel.cs",
-              "RelativeToolTip": "OnlineShopWebApp\\Models\\ProductViewModel.cs",
+              "DocumentIndex": 21,
+              "Title": "DeliveryTypeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\DeliveryTypeViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\DeliveryTypeViewModel.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\DeliveryTypeViewModel.cs",
+              "RelativeToolTip": "OnlineShopWebApp\\Models\\DeliveryTypeViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:07:02.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\Login.cs",
+              "RelativeToolTip": "OnlineShopWebApp\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:06:57.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\OrderDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\OrderDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\OrderDetailsViewModel.cs",
+              "RelativeToolTip": "OnlineShopWebApp\\Models\\OrderDetailsViewModel.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:06:32.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\ItemViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\ItemViewModel.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\ItemViewModel.cs",
+              "RelativeToolTip": "OnlineShopWebApp\\Models\\ItemViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T01:51:47.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CartInfoShort.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Components\\CartInfoShort\\CartInfoShort.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Shared\\Components\\CartInfoShort\\CartInfoShort.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Components\\CartInfoShort\\CartInfoShort.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Shared\\Components\\CartInfoShort\\CartInfoShort.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T20:47:38.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Account\\Orders.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Account\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Account\\Orders.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Account\\Orders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-19T01:51:38.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Thankyou.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Order\\Thankyou.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Order\\Thankyou.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Order\\Thankyou.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Order\\Thankyou.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T20:42:27.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-19T14:06:23.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "OnlineShopWebApp\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T01:51:58.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 30,
               "Title": "PayTypeViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\PayTypeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\PayTypeViewModel.cs",
               "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\PayTypeViewModel.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\PayTypeViewModel.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\PayTypeViewModel.cs",
               "RelativeToolTip": "OnlineShopWebApp\\Models\\PayTypeViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -331,37 +721,89 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "OnlineShopWebApp\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T01:52:59.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 31,
               "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Controllers\\CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "OnlineShopWebApp\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Controllers\\CartController.cs",
               "RelativeToolTip": "OnlineShopWebApp\\Controllers\\CartController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAswEcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T01:50:07.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:07:09.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Favourite\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Favourite\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Favourite\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Favourite\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:43:50.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "OnlineShopWebApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAIABAAAAAAAAAAAnwJcBAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-19T00:25:34.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ReviewDB.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\WebAPI\\Models\\ReviewDB.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\ReviewDB.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\WebAPI\\Models\\ReviewDB.cs",
+              "RelativeToolTip": "WebAPI\\Models\\ReviewDB.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvwgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T14:08:06.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CartInfoFull.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Components\\CartInfoFull\\CartInfoFull.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Shared\\Components\\CartInfoFull\\CartInfoFull.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Components\\CartInfoFull\\CartInfoFull.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Shared\\Components\\CartInfoFull\\CartInfoFull.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-19T14:09:18.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "OrderViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\OrderViewModel.cs",
               "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\OrderViewModel.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\OrderViewModel.cs",
               "RelativeToolTip": "OnlineShopWebApp\\Models\\OrderViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -370,115 +812,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CompareController.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Controllers\\CompareController.cs",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Controllers\\CompareController.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Controllers\\CompareController.cs",
-              "RelativeToolTip": "OnlineShopWebApp\\Controllers\\CompareController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 38,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\UserViewModel.cs",
+              "RelativeToolTip": "OnlineShopWebApp\\Models\\UserViewModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T01:53:18.865Z",
+              "WhenOpened": "2026-02-23T13:42:12.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Order\\Details.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Order\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Order\\Details.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\Order\\Details.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-19T01:52:43.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-19T01:52:24.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 39,
               "Title": "FavouriteViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\FavouriteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\FavouriteViewModel.cs",
               "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\FavouriteViewModel.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\FavouriteViewModel.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\FavouriteViewModel.cs",
               "RelativeToolTip": "OnlineShopWebApp\\Models\\FavouriteViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T01:51:50.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ItemViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\ItemViewModel.cs",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\ItemViewModel.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\ItemViewModel.cs",
-              "RelativeToolTip": "OnlineShopWebApp\\Models\\ItemViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T01:51:47.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "OrderDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Account\\OrderDetails.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Account\\OrderDetails.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Account\\OrderDetails.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\Account\\OrderDetails.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-19T01:51:41.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Orders.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Account\\Orders.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Account\\Orders.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Account\\Orders.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\Account\\Orders.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-19T01:51:38.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CartViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Components\\Cart\\CartViewComponent.cs",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Shared\\Components\\Cart\\CartViewComponent.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Components\\Cart\\CartViewComponent.cs",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\Shared\\Components\\Cart\\CartViewComponent.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T01:50:48.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 40,
               "Title": "ImageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\ImageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\ImageViewModel.cs",
               "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\ImageViewModel.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\ImageViewModel.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\ImageViewModel.cs",
               "RelativeToolTip": "OnlineShopWebApp\\Models\\ImageViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -487,11 +851,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 41,
+              "Title": "CartInfoFullViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Components\\CartInfoFull\\CartInfoFullViewComponent.cs",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Shared\\Components\\CartInfoFull\\CartInfoFullViewComponent.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Components\\CartInfoFull\\CartInfoFullViewComponent.cs",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Shared\\Components\\CartInfoFull\\CartInfoFullViewComponent.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T14:09:20.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\WebAPI\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\WebAPI\\Models\\Status.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T14:08:04.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OnlineShopWebApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T01:53:34.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
               "Title": "Cart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Components\\Cart\\Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Components\\Cart\\Cart.cshtml",
               "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Shared\\Components\\Cart\\Cart.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Components\\Cart\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Components\\Cart\\Cart.cshtml",
               "RelativeToolTip": "OnlineShopWebApp\\Views\\Shared\\Components\\Cart\\Cart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -500,545 +903,406 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "OrderDetailsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\OrderDetailsViewModel.cs",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\OrderDetailsViewModel.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\OrderDetailsViewModel.cs",
-              "RelativeToolTip": "OnlineShopWebApp\\Models\\OrderDetailsViewModel.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:06:32.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Registration.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Authorization\\Registration.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Authorization\\Registration.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Authorization\\Registration.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\Authorization\\Registration.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAABwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-19T00:28:28.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "OnlineShopWebApp\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-19T00:25:34.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:10:36.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:33:12.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 44,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:38:02.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Footer.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Footer.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Shared\\Footer.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Footer.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\Shared\\Footer.cshtml",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwDIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:22:03.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Header.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Header.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Shared\\Header.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Header.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\Shared\\Header.cshtml",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAkwG4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:10:45.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Authorization\\Login.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Authorization\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Authorization\\Login.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\Authorization\\Login.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-19T00:27:09.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Order\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Order\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Order\\Index.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Order\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:38:05.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AddReview.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Product\\AddReview.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Product\\AddReview.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Product\\AddReview.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\Product\\AddReview.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:18:03.93Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:07:09.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Favourite\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Favourite\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Favourite\\Index.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\Favourite\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:43:50.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Add.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Add.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Add.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Add.cshtml",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:56:14.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:51:36.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Edit.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Edit.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:53:30.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Program.cs",
-              "RelativeToolTip": "OnlineShopWebApp\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAIA6wBkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:05:26.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "DatabaseContext.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\DatabaseContext.cs",
-              "RelativeDocumentMoniker": "OnlineShop.DB\\DatabaseContext.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\DatabaseContext.cs",
-              "RelativeToolTip": "OnlineShop.DB\\DatabaseContext.cs",
-              "ViewState": "AgIAAMYAAAAAAAAAAAAcwNIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:05:06.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "UserMenu.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\UserMenu.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Shared\\UserMenu.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\UserMenu.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\Shared\\UserMenu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:24:29.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Compare\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Compare\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Compare\\Index.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\Compare\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:33:30.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:07:41.93Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:07:40.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:25:49.306Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Search.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Product\\Search.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Product\\Search.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Product\\Search.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\Product\\Search.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:13:59.947Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Areas\\Administrator\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Areas\\Administrator\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:08:36.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Areas\\Administrator\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Areas\\Administrator\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:08:34.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "View.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Product\\View.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Product\\View.cshtml",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Views\\Product\\View.cshtml",
-              "RelativeToolTip": "OnlineShopWebApp\\Views\\Product\\View.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T23:08:11.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "CartItemViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\CartItemViewModel.cs",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\CartItemViewModel.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\CartItemViewModel.cs",
-              "RelativeToolTip": "OnlineShopWebApp\\Models\\CartItemViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:07:05.66Z"
+              "WhenOpened": "2026-02-18T23:38:02.003Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 46,
-              "Title": "CartViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\CartViewModel.cs",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\CartViewModel.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\CartViewModel.cs",
-              "RelativeToolTip": "OnlineShopWebApp\\Models\\CartViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CompareController.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Controllers\\CompareController.cs",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Controllers\\CompareController.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Controllers\\CompareController.cs",
+              "RelativeToolTip": "OnlineShopWebApp\\Controllers\\CompareController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:07:04.823Z"
+              "WhenOpened": "2026-02-19T01:53:18.865Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 47,
-              "Title": "CompareViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\CompareViewModel.cs",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\CompareViewModel.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\CompareViewModel.cs",
-              "RelativeToolTip": "OnlineShopWebApp\\Models\\CompareViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CartViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Components\\Cart\\CartViewComponent.cs",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Shared\\Components\\Cart\\CartViewComponent.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Components\\Cart\\CartViewComponent.cs",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Shared\\Components\\Cart\\CartViewComponent.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:07:03.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "DeliveryTypeViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\DeliveryTypeViewModel.cs",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\DeliveryTypeViewModel.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\DeliveryTypeViewModel.cs",
-              "RelativeToolTip": "OnlineShopWebApp\\Models\\DeliveryTypeViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:07:02.948Z"
+              "WhenOpened": "2026-02-19T01:50:48.964Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 49,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\Login.cs",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\Login.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\Login.cs",
-              "RelativeToolTip": "OnlineShopWebApp\\Models\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:06:57.228Z"
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Authorization\\Registration.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Authorization\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Authorization\\Registration.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Authorization\\Registration.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwCcAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-19T00:28:28.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Shared\\Header.cshtml",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwG4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:10:45.133Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 50,
-              "Title": "OrderStatusViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\OrderStatusViewModel.cs",
-              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\OrderStatusViewModel.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShopWebApp\\Models\\OrderStatusViewModel.cs",
-              "RelativeToolTip": "OnlineShopWebApp\\Models\\OrderStatusViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:06:55.42Z"
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Authorization\\Login.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Authorization\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Authorization\\Login.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Authorization\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwCEAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-19T00:27:09.489Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 51,
-              "Title": "ProductDBStorage.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Storages\\ProductDBStorage.cs",
-              "RelativeDocumentMoniker": "OnlineShop.DB\\Storages\\ProductDBStorage.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Storages\\ProductDBStorage.cs",
-              "RelativeToolTip": "OnlineShop.DB\\Storages\\ProductDBStorage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:06:21.456Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:38:05.077Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 52,
-              "Title": "OrderDBStorage.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Storages\\OrderDBStorage.cs",
-              "RelativeDocumentMoniker": "OnlineShop.DB\\Storages\\OrderDBStorage.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Storages\\OrderDBStorage.cs",
-              "RelativeToolTip": "OnlineShop.DB\\Storages\\OrderDBStorage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:06:19.168Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "FavouriteDBStorage.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Storages\\FavouriteDBStorage.cs",
-              "RelativeDocumentMoniker": "OnlineShop.DB\\Storages\\FavouriteDBStorage.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Storages\\FavouriteDBStorage.cs",
-              "RelativeToolTip": "OnlineShop.DB\\Storages\\FavouriteDBStorage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:06:13.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "CartDBStorage.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Storages\\CartDBStorage.cs",
-              "RelativeDocumentMoniker": "OnlineShop.DB\\Storages\\CartDBStorage.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Storages\\CartDBStorage.cs",
-              "RelativeToolTip": "OnlineShop.DB\\Storages\\CartDBStorage.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:06:08.529Z"
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:56:14.206Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 54,
-              "Title": "CompareDBStorage.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Storages\\CompareDBStorage.cs",
-              "RelativeDocumentMoniker": "OnlineShop.DB\\Storages\\CompareDBStorage.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Storages\\CompareDBStorage.cs",
-              "RelativeToolTip": "OnlineShop.DB\\Storages\\CompareDBStorage.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAIBJwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:51:36.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Areas\\Administrator\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:53:30.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "OnlineShop.DB\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\DatabaseContext.cs",
+              "RelativeToolTip": "OnlineShop.DB\\DatabaseContext.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAcwNIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:06:07.761Z"
+              "WhenOpened": "2026-02-18T23:05:06.988Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 56,
-              "Title": "Compare.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Models\\Compare.cs",
-              "RelativeDocumentMoniker": "OnlineShop.DB\\Models\\Compare.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Models\\Compare.cs",
-              "RelativeToolTip": "OnlineShop.DB\\Models\\Compare.cs",
+              "Title": "UserMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\UserMenu.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Shared\\UserMenu.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Shared\\UserMenu.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Shared\\UserMenu.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:06:05.096Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:24:29.227Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 57,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "OnlineShop.DB\\Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Models\\CartItem.cs",
-              "RelativeToolTip": "OnlineShop.DB\\Models\\CartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:06:03.969Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Compare\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Views\\Compare\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Views\\Compare\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Views\\Compare\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBJwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:33:30.595Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 58,
-              "Title": "IProductStorage.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Interfaces\\IProductStorage.cs",
-              "RelativeDocumentMoniker": "OnlineShop.DB\\Interfaces\\IProductStorage.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Interfaces\\IProductStorage.cs",
-              "RelativeToolTip": "OnlineShop.DB\\Interfaces\\IProductStorage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:06:00.576Z"
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Areas\\Administrator\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Areas\\Administrator\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:08:36.711Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 59,
-              "Title": "IOrderStorage.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Interfaces\\IOrderStorage.cs",
-              "RelativeDocumentMoniker": "OnlineShop.DB\\Interfaces\\IOrderStorage.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Interfaces\\IOrderStorage.cs",
-              "RelativeToolTip": "OnlineShop.DB\\Interfaces\\IOrderStorage.cs",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Areas\\Administrator\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Areas\\Administrator\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "OnlineShopWebApp\\Areas\\Administrator\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:05:59.44Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T23:08:34.876Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 60,
-              "Title": "IFavouriteStorage.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Interfaces\\IFavouriteStorage.cs",
-              "RelativeDocumentMoniker": "OnlineShop.DB\\Interfaces\\IFavouriteStorage.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Interfaces\\IFavouriteStorage.cs",
-              "RelativeToolTip": "OnlineShop.DB\\Interfaces\\IFavouriteStorage.cs",
+              "Title": "CartItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\CartItemViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\CartItemViewModel.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\CartItemViewModel.cs",
+              "RelativeToolTip": "OnlineShopWebApp\\Models\\CartItemViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:05:58.634Z"
+              "WhenOpened": "2026-02-18T23:07:05.66Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 61,
-              "Title": "ICompareStorage.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Interfaces\\ICompareStorage.cs",
-              "RelativeDocumentMoniker": "OnlineShop.DB\\Interfaces\\ICompareStorage.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Interfaces\\ICompareStorage.cs",
-              "RelativeToolTip": "OnlineShop.DB\\Interfaces\\ICompareStorage.cs",
+              "Title": "CartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\CartViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\CartViewModel.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\CartViewModel.cs",
+              "RelativeToolTip": "OnlineShopWebApp\\Models\\CartViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:05:57.791Z"
+              "WhenOpened": "2026-02-18T23:07:04.823Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 62,
+              "Title": "CompareViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\CompareViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\CompareViewModel.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\CompareViewModel.cs",
+              "RelativeToolTip": "OnlineShopWebApp\\Models\\CompareViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:07:03.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "OrderStatusViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\OrderStatusViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineShopWebApp\\Models\\OrderStatusViewModel.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShopWebApp\\Models\\OrderStatusViewModel.cs",
+              "RelativeToolTip": "OnlineShopWebApp\\Models\\OrderStatusViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:06:55.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ProductDBStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Storages\\ProductDBStorage.cs",
+              "RelativeDocumentMoniker": "OnlineShop.DB\\Storages\\ProductDBStorage.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Storages\\ProductDBStorage.cs",
+              "RelativeToolTip": "OnlineShop.DB\\Storages\\ProductDBStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:06:21.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "OrderDBStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Storages\\OrderDBStorage.cs",
+              "RelativeDocumentMoniker": "OnlineShop.DB\\Storages\\OrderDBStorage.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Storages\\OrderDBStorage.cs",
+              "RelativeToolTip": "OnlineShop.DB\\Storages\\OrderDBStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:06:19.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FavouriteDBStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Storages\\FavouriteDBStorage.cs",
+              "RelativeDocumentMoniker": "OnlineShop.DB\\Storages\\FavouriteDBStorage.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Storages\\FavouriteDBStorage.cs",
+              "RelativeToolTip": "OnlineShop.DB\\Storages\\FavouriteDBStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:06:13.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CartDBStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Storages\\CartDBStorage.cs",
+              "RelativeDocumentMoniker": "OnlineShop.DB\\Storages\\CartDBStorage.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Storages\\CartDBStorage.cs",
+              "RelativeToolTip": "OnlineShop.DB\\Storages\\CartDBStorage.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:06:08.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CompareDBStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Storages\\CompareDBStorage.cs",
+              "RelativeDocumentMoniker": "OnlineShop.DB\\Storages\\CompareDBStorage.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Storages\\CompareDBStorage.cs",
+              "RelativeToolTip": "OnlineShop.DB\\Storages\\CompareDBStorage.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:06:07.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Compare.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Models\\Compare.cs",
+              "RelativeDocumentMoniker": "OnlineShop.DB\\Models\\Compare.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Models\\Compare.cs",
+              "RelativeToolTip": "OnlineShop.DB\\Models\\Compare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:06:05.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "OnlineShop.DB\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Models\\CartItem.cs",
+              "RelativeToolTip": "OnlineShop.DB\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:06:03.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IProductStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Interfaces\\IProductStorage.cs",
+              "RelativeDocumentMoniker": "OnlineShop.DB\\Interfaces\\IProductStorage.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Interfaces\\IProductStorage.cs",
+              "RelativeToolTip": "OnlineShop.DB\\Interfaces\\IProductStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:06:00.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IOrderStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Interfaces\\IOrderStorage.cs",
+              "RelativeDocumentMoniker": "OnlineShop.DB\\Interfaces\\IOrderStorage.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Interfaces\\IOrderStorage.cs",
+              "RelativeToolTip": "OnlineShop.DB\\Interfaces\\IOrderStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:05:59.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IFavouriteStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Interfaces\\IFavouriteStorage.cs",
+              "RelativeDocumentMoniker": "OnlineShop.DB\\Interfaces\\IFavouriteStorage.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Interfaces\\IFavouriteStorage.cs",
+              "RelativeToolTip": "OnlineShop.DB\\Interfaces\\IFavouriteStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:05:58.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ICompareStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Interfaces\\ICompareStorage.cs",
+              "RelativeDocumentMoniker": "OnlineShop.DB\\Interfaces\\ICompareStorage.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Interfaces\\ICompareStorage.cs",
+              "RelativeToolTip": "OnlineShop.DB\\Interfaces\\ICompareStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:05:57.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
               "Title": "ICartStorage.cs",
-              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Interfaces\\ICartStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Interfaces\\ICartStorage.cs",
               "RelativeDocumentMoniker": "OnlineShop.DB\\Interfaces\\ICartStorage.cs",
-              "ToolTip": "C:\\Users\\Nyu\\Desktop\\OnlineShopWebApp-main\\OnlineShop\\OnlineShop.DB\\Interfaces\\ICartStorage.cs",
+              "ToolTip": "C:\\Users\\Nyu\\Desktop\\Kursach\\OnlineShop\\OnlineShop.DB\\Interfaces\\ICartStorage.cs",
               "RelativeToolTip": "OnlineShop.DB\\Interfaces\\ICartStorage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T23:05:55.961Z"
+              "WhenOpened": "2026-02-18T23:05:55.961Z",
+              "EditorCaption": ""
             }
           ]
         }
